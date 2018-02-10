@@ -1,0 +1,77 @@
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1429081881789">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="index.css" crc="508484763" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="phone>index:index"/>
+    <file name="museutils.js" crc="521960461" ref="phone>index:index"/>
+    <file name="webpro.js" crc="220831917" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="224651946" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="276313855" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="325405309" ref="phone>index:index"/>
+    <file name="musewpdisclosure.js" crc="4110183178" ref="phone>index"/>
+    <file name="jquery.watch.js" crc="56779320" ref="phone>index:index"/>
+    <file name="museredirect.js" crc="4117159434" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="research background mobile.png" crc="224752877" ref="phone>index"/>
+    <file name="mobile-scroll.png" crc="4138791565" ref="phone>index"/>
+    <file name="u701-4.png" crc="264064716" ref="phone>index"/>
+    <file name="u703-11.png" crc="3925837719" ref="phone>index"/>
+    <file name="u1230-4.png" crc="454998907" ref="phone>index"/>
+    <file name="cangjie.jpg" crc="4122819323" ref="phone>index:index"/>
+    <file name="u1234-4.png" crc="458149695" ref="phone>index"/>
+    <file name="800px-gu_kaizhi.jpg" crc="4189541941" ref="phone>index:index"/>
+    <file name="u1238-4.png" crc="3926219064" ref="phone>index"/>
+    <file name="hokusai_portrait.jpg" crc="3956496736" ref="phone>index:index"/>
+    <file name="u1242-4.png" crc="526469615" ref="phone>index"/>
+    <file name="zheng-sixiao.jpg" crc="3824452312" ref="phone>index:index"/>
+    <file name="0.jpg" crc="143068518" ref="phone>index:index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="4pmtguan228x229.jpg" crc="4019324466" ref="phone>index"/>
+    <file name="535(3)(2).jpg" crc="470299669" ref="phone>index:index"/>
+    <file name="1280px-great_wave_off_kanagawa2.jpg" crc="131533680" ref="phone>index:index"/>
+    <file name="huanggongwang-nine-pearl-peaks-dateunknown.jpg" crc="18735840" ref="phone>index:index"/>
+    <file name="jap-sam-1.jpg" crc="169889387" ref="phone>index:index"/>
+    <file name="zheng_sixiao_a_great_painter_of_orchidsca064e3d22cb2fc9492d.jpg" crc="3843858272" ref="phone>index:index"/>
+    <file name="661883_acetate_bw.jpg" crc="3808194361" ref="phone>index:index"/>
+    <file name="bullfinch-and-weeping-cherry-blossoms.jpg" crc="3801336611" ref="phone>index:index"/>
+    <file name="gu_kaizhi_003.jpg" crc="3821757896" ref="phone>index:index"/>
+    <file name="shen_zhou_shanshi.jpg" crc="4075886232" ref="phone>index:index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="u704-26.png" crc="3834539448" ref="phone>index"/>
+    <file name="research background.png" crc="4200519485" ref="index"/>
+    <file name="scroll2.png" crc="4228585609" ref="index"/>
+    <file name="scrollroll1.png" crc="358914008" ref="index"/>
+    <file name="language.png" crc="37041976" ref="index"/>
+    <file name="turtle.png" crc="3830400123" ref="index"/>
+    <file name="art.png" crc="91708592" ref="index"/>
+    <file name="picture.png" crc="395948123" ref="index"/>
+    <file name="learn.png" crc="133919715" ref="index"/>
+    <file name="u151-6.png" crc="425085184" ref="index"/>
+    <file name="u152-13.png" crc="4172818592" ref="index"/>
+    <file name="u342-4.png" crc="58410581" ref="index"/>
+    <file name="u359-5.png" crc="3814712706" ref="index"/>
+    <file name="u373-4.png" crc="338373372" ref="index"/>
+    <file name="u366-4.png" crc="3759460116" ref="index"/>
+    <file name="4pmtguan.jpg" crc="508555345" ref="index"/>
+    <file name="060x45.jpg" crc="4066981918" ref="index"/>
+    <file name="4pmtguan-crop-u441.jpg" crc="35557935" ref="index"/>
+    <file name="535(3)(2)66x45.jpg" crc="44247513" ref="index"/>
+    <file name="1280px-great_wave_off_kanagawa266x45.jpg" crc="497113049" ref="index"/>
+    <file name="bullfinch-and-weeping-cherry-blossoms-crop-u477.jpg" crc="9932974" ref="index"/>
+    <file name="gu_kaizhi_00363x45.jpg" crc="3883891924" ref="index"/>
+    <file name="huanggongwang-nine-pearl-peaks-dateunknown-crop-u495.jpg" crc="158949154" ref="index"/>
+    <file name="jap-sam-1-crop-u504.jpg" crc="4148892889" ref="index"/>
+    <file name="zheng_sixiao_a_great_painter_of_orchidsca064e3d22cb2fc9492d-crop-u522.jpg" crc="228098988" ref="index"/>
+    <file name="u150-29.png" crc="339846573" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="188347245" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4170412253" mt="1429081747834" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="417076342" mt="1429081398823" redirect="true"/>
+</manifest>
